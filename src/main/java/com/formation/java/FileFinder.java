@@ -6,7 +6,7 @@ import java.util.Arrays;
 /**
  * @author Admin
  */
-public class Example {
+public class FileFinder {
 
 	private static String locateUniverseFormula() {
 		String name = "universe-formula";
