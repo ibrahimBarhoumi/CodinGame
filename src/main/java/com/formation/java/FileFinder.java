@@ -1,7 +1,6 @@
 package com.formation.java;
 
 import java.io.File;
-import java.util.Arrays;
 
 /**
  * @author Admin
